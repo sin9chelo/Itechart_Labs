@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R6KXnJR3gfWNKUQSmSbv/gJcgUw94oEOVWPUr4K/nZBfdCU2EoztC490hKZwf9NDJXoeVKfqHZHruSDM7IbdOA==",
+  "dgSpecHash": "AzbDFoONuIPVPgy12YMVoLZwnDCdov9UJuDNpvUZhapxMRCxWSCIDaPHnN2Fy9Q9+XNWC8e8mAbGGFuI7ndoCw==",
   "success": true,
   "projectFilePath": "D:\\ITechArt\\Projects\\Itechart_Labs\\WebApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,9 @@
     "C:\\Users\\kirik\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\kirik\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\kirik\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\kirik\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.0\\microsoft.identitymodel.jsonwebtokens.6.12.0.nupkg.sha512",
+    "C:\\Users\\kirik\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.0\\microsoft.identitymodel.logging.6.12.0.nupkg.sha512",
+    "C:\\Users\\kirik\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.0\\microsoft.identitymodel.tokens.6.12.0.nupkg.sha512",
     "C:\\Users\\kirik\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kirik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\kirik\\.nuget\\packages\\microsoft.packaging.tools\\1.0.0-preview1-25301-01\\microsoft.packaging.tools.1.0.0-preview1-25301-01.nupkg.sha512",
@@ -47,7 +50,9 @@
     "C:\\Users\\kirik\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\kirik\\.nuget\\packages\\system.data.sqlite.core\\1.0.114.3\\system.data.sqlite.core.1.0.114.3.nupkg.sha512",
     "C:\\Users\\kirik\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\kirik\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\kirik\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.0\\system.identitymodel.tokens.jwt.6.12.0.nupkg.sha512",
+    "C:\\Users\\kirik\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\kirik\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
