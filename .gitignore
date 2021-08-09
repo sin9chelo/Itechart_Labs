@@ -30,7 +30,10 @@ Project_Readme.html
 [Dd]ebug/
 BAL/obj/Debug/
 DAL/obj/Debug/
-BAL/[Bb]in/
+WebApp/API/obj/
+WebApp/API/obj
+WebApp/API/bin/Debug/net5.0/
+WebApp/API/bin/Debug/net5.0
 DAL/[Dd]ebug/
 DAL/[Bb]in/
 [Dd]ebugPublic/
