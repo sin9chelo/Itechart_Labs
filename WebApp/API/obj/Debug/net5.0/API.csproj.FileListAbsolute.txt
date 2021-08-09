@@ -95,3 +95,6 @@ D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\Microsoft.Identit
 D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
 D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
