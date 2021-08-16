@@ -99,3 +99,5 @@ D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\Microsoft.AspNetC
 D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\AutoMapper.dll
+D:\ITechArt\Projects\Itechart_Labs\WebApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
