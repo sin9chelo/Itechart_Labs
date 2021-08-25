@@ -28,10 +28,10 @@ export class MemberListComponent implements OnInit {
    }
 
   ngOnInit(): void {
-    this.loadMember();
+    this.loadMembers();
   }
 
-  loadMember() {
+  loadMembers() {
     this.memberService.getMembers(this.userParams).subscribe(response => {
       this.members = response.result;
       this.pagination = response.pagination;
@@ -40,11 +40,11 @@ export class MemberListComponent implements OnInit {
 
   resetFilters() {
     this.userParams = new UserParams(this.user);
-    this.loadMember();
+    this.loadMembers();
   }
 
   pageChanged(event: any) {
     this.userParams.pageNumber = event.page;
-    this.loadMember();
+    this.loadMembers();
   }
 }
